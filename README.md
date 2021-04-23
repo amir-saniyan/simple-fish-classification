@@ -283,7 +283,7 @@ Training Done
 
 ## Predicting
 
-To train the model run the following command:
+To predict the model run the following command:
 
 ```shell
 $ python3 predict.py <image-file-name>
