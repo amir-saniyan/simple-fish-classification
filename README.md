@@ -4,6 +4,8 @@ In the name of God
 
 This repository contains implementation of `Simple Fish Classification`.
 
+![Dataset](./dataset.jpg)
+
 ## Install Requirements
 
 To install requirements run the following command:
