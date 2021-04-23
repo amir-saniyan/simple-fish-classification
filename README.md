@@ -11,7 +11,7 @@ This repository contains implementation of `Simple Fish Classification`.
 To install requirements run the following command:
 
 ```shell
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 ## Training
