@@ -307,3 +307,9 @@ Reading Image...
 Predicting...
 Class: gold, Score: 1.0
 ```
+
+
+## Links
+
+* AlexNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+* Dataset: https://www.kaggle.com/khaledelsayedibrahim/fishclassifierfinal
